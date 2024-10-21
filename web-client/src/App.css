@@ -1,0 +1,9 @@
+body {
+  background-color: var(--bg-color);
+  font-family: "Gotham";
+}
+
+a {
+  text-decoration: none;
+}
+

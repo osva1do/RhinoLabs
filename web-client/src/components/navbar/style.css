@@ -1,0 +1,18 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.4rem 2rem;
+  background-color: aquamarine;
+}
+
+.navbar img {
+  width: 80px;
+  height: auto;
+  object-fit: cover;
+}
+
+.navbar a{
+  margin: 0 5px;
+}
