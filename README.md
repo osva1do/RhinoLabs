@@ -16,7 +16,7 @@ Para instalar este sistema, sigue estos pasos:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/usuario/RhinoLabs.git
+   git clone https://github.com/osva1do/RhinoLabs.git
 2. **Instala las dependencias:**
    ```bash
    cd api
