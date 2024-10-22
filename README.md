@@ -24,9 +24,11 @@ Para instalar este sistema, sigue estos pasos:
    //repetir con todas las rutas
 3. **Ejecuta el servidor:**
    ```bash
+   cd api
    npm run dev
 4. **Inicia el cliente:**
    ```bash
+   cd web-client
    npm run dev
 5. **Abre el navergador e ingresa a http://localhost:5173 para ingresar a la pagina
    
